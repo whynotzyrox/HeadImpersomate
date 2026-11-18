@@ -1,0 +1,7 @@
+name: HeadImpersonate
+version: 2.0.0
+main: com.example.impersonate.HeadImpersonatePlugin
+api-version: '1.20'
+author: CustomSMP
+description: Glitch-free 30-minute identity theft plugin for Paper 1.20.4 to 26.3+
+softdepend: [SkinsRestorer]
